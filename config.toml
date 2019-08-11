@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://pymoondra.netlify.com/"
 title = "Yusuke Ishimi"
 
 theme = "coder-portfolio"
